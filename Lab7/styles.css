@@ -45,13 +45,13 @@ body {
     }
     button {
     padding: 12px 24px;
-    background-color: #ffaced;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(226, 115, 115);
     border: none;
     border-radius: 8px;
     cursor: pointer;
     transition: background-color 0.3s;
     }
     button:hover {
-    background-color: #0056b3;
+    background-color: #061a30;
     }
